@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>JJK moments</title>
+	</head>
+
+	<body>
+	<h1>JUJUTSU KAISEN</h1>
+	<img width="60%"src="jjk1.jpg">
+	<img width="70%"src="jjk2.jpg">
+	<img width="60%"src="jjk3.jpg">
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Sp1DwoeOJAU?si=b6UCBcg6trFczn0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+	</body>
+</html>
